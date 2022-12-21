@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: DEVELOPER_DB
+    database: DEVELOPER_DB
+    schema: TIRUPATHIRAO_SCHEMA
+    tables:
+      - name: store_procedure_table
+      - name: first_procedure_1
